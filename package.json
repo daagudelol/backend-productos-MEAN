@@ -1,0 +1,15 @@
+{
+  "name": "workshop-medjs",
+  "version": "1.0.0",
+  "description": "Taller medellin js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs;",
+    "mongo"
+  ],
+  "author": "Diego Agudelo",
+  "license": "MIT"
+}
